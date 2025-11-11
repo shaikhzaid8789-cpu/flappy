@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Lovable Project</title>
+  <style>
+    body,html{
+      margin:0;
+      padding:0;
+      height:100%;
+    }
+    iframe{
+      width:100%;
+      height:100%;
+      border:none;
+    }
+  </style>
+</head>
+<body>
+  <iframe src="https://preview--bus-bird-fly.lovable.app/"></iframe>
+</body>
+</html>
